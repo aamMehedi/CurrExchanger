@@ -1,6 +1,6 @@
 # CurrExchanger
 
-A simple currency converter web app that lets users convert between different currencies using the ExchangeRate API.
+A simple currency converter web app that lets users convert between different currencies using the ExchangeRate.host API.
 
 ## Features
 - Convert amounts between supported currencies
@@ -47,6 +47,7 @@ API_KEY=your_api_key_here
 - CSS
 - JavaScript
 - ExchangeRate API
+- FlagsAPI
 
 ## Notes
 - This project is beginner-friendly and was created as a first API-based web project.
