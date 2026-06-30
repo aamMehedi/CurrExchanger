@@ -1,28 +1,8 @@
 # CurrExchanger
 
-A simple currency converter web app that lets users convert between different currencies using the ExchangeRate.host API.
+A simple currency converter web app that lets users convert between different currencies using the ExchangeRate API.
 
----
-
-## 🚀 Live Preview
-
-```
-[ From Currency ]   [ To Currency ]
-      🇺🇸 USD   →      🇪🇺 EUR
-
-Amount: [ 100 ]
-
-[ Convert ]
-
-Result: 100 USD = 93.50 EUR
-```
-
-> A lightweight interface with country flags, currency selection, and live conversion results.
-
----
-
-## ✨ Features
-
+## Features
 - Convert amounts between supported currencies
 - Display country flags for the selected currencies
 - Simple and clean user interface
@@ -82,10 +62,7 @@ API_KEY=your_api_key_here
 - HTML
 - CSS
 - JavaScript
-- ExchangeRate.host API
-- Flags API
-
----
+- ExchangeRate API
 
 ## 📌 Notes
 
