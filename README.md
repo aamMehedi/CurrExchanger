@@ -27,7 +27,7 @@ A simple currency converter web app that lets users convert between different cu
    ```bash
    git clone https://github.com/aamMehedi/CurrExchanger.git
    ```
-
+   then
    ```bash
    cd FirstAPIcall
    ```
