@@ -11,8 +11,7 @@ body {
 .box {
     display: flex;
     gap: 20px;
-    padding: 30px 30px 50px 30px;
-    padding-top: 80px;
+    padding: 30px 30px 30px 30px;
     position: relative;
     background-color: #3e4b57;
     border-radius: 16px;
@@ -74,7 +73,7 @@ i.fa-solid {
 .box .from,
 .box .to {
     width: 220px;
-    min-height: 220px; 
+    min-height: 220px; /* increased so flags align at same bottom */
     border-radius: 14px;
     padding: 20px;
     display: flex;
@@ -145,6 +144,7 @@ i.fa-solid {
     margin: 0;
 }
 
+/* Layout tweaks for .from and .to contents */
 .box .from .box-row {
     width: 100%;
     display: flex;
