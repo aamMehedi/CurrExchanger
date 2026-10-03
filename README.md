@@ -1,6 +1,6 @@
 # CurrExchanger
 
-A simple currency converter web app that lets users convert between different currencies using the ExchangeRate API.
+A simple currency converter web app that lets users convert between different currencies using the ExchangeRate.host API.
 
 ## Features
 - Convert amounts between supported currencies
@@ -26,6 +26,9 @@ A simple currency converter web app that lets users convert between different cu
 1. Clone the repository:
    ```bash
    git clone https://github.com/aamMehedi/CurrExchanger.git
+   ```
+   then
+   ```bash
    cd FirstAPIcall
    ```
 2. Open the project folder in your browser:
